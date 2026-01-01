@@ -8,7 +8,7 @@ Exercise 2 – Road Lane Detection, Crack Segmentation using Active Contours
 
 Exercise 3 – Thresholding, Template Matching
 
-Exercise 4 – Image Segmentation using K-Means, GLCM, Filter Banks
+Exercise 4 – Image Segmentation using K-Means, GLCM, FilterBanks
 
 Exercise 5 – Feature Matching using SIFT and FREAK
 
