@@ -1,24 +1,23 @@
 # Homework Assignments Overview
 This repository contains implementations for various image processing and computer vision tasks as part of different homework assignments. Below is a brief overview of each homework assignment:
 
-## Homework 1
-Apply threshold on channels of picture, Perform Canny edge detection, Implement histogram equalization
-## Homework 2
-Utilize Hough transformation, Implement Active contours
-## Homework 3
-Explore segmentation based on gray level segmentation, Adapt to the stereotype for segmentation
-## Homework 4
-Extract patches from images, Utilize GLCM (Gray-Level Co-occurrence Matrix) for guidance,Implement parallel processing of patches,Use Gabor filter and GLCM for image processing
-## Homework 5
-Introduction to SIFT (Scale-Invariant Feature Transform) descriptor
-## Homework 6
-Introduction to object recognition problem, Utilize Local Binary Patterns (LBP) for object recognition
-## Homework 7
-Familiarization with methods of depth estimation, Implement three-dimensional reconstruction, Explore lidar sensor for depth perception
-## Homework 8
-Familiarization with optical flux
+
+Exercise 1 – Image Manipulations, Canny Edge Detection, Histogram Equalization
+
+Exercise 2 – Road Lane Detection, Crack Segmentation using Active Contours
+
+Exercise 3 – Thresholding, Template Matching
+
+Exercise 4 – Image Segmentation using K-Means, GLCM, Filter Banks
+
+Exercise 5 – Feature Matching using SIFT and FREAK
+
+Exercise 6 – Object Detection using R-CNN on Counter Strike Dataset
+
+Exercise 7 – 3D Vision, LiDAR Data, Stereo Matching, 3D Scene Reconstruction, Depth Maps
+
+Exercise 8 – Corner Detection, Optical Flow using Lucas–Kanade and Gunnar–Farneback
 
 #
 Each homework assignment contains implementations and documentation relevant to the specified tasks. Please refer to individual directories for detailed information and code.
 
-Note: Please ensure that appropriate citations and references are provided if any external resources are used.
